@@ -1,0 +1,32 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    justify-content: center;
+    padding: 20px;
+}
+
+.div1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 2px 2px 5px gray;
+    padding: 40px;
+}
+
+.subcontent1{
+    width: 300px;
+    margin-left: 100px;
+}
+
+.button-div1{
+    height: 40px;
+    width: 100px;
+    color: #fff;
+    background-color: royalblue;
+    border-radius: 10px;
+    font-size: 0.8rem;
+    border: transparent;
+}
