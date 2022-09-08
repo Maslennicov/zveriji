@@ -15,10 +15,23 @@
     box-shadow: 2px 2px 5px gray;
     padding: 40px;
 }
+.div2 {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 2px 2px 5px gray;
+    padding: 40px;
+    margin-top: 20px;
+}
 
 .subcontent1{
     width: 300px;
     margin-left: 100px;
+}
+.subcontent2{
+    width: 300px;
+    float: right;
 }
 
 .button-div1{
